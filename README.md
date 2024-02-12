@@ -4,3 +4,4 @@ master: third line
 master: fourth line
 
 feature: first line
+feature: second line
